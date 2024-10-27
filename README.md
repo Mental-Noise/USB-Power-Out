@@ -24,6 +24,8 @@ All schematics can be found in the [schematics folder](./schematics).
 
 The build guide is coming soon.
 
+The [build guide](./Mental%20Noise%20-%20USB%20Power%20Out.pdf) is available as a PDF.
+
 To import the schematics:
 * Install EasyEDA at https://easyeda.com/ and download the standard edition
 * Import [schematics.json](./schematics/schematics.json) in EasyEDA editor by clicking the document icon on the topbar, "Document" > "Open" > "EasyEDA Source", and select the json file
